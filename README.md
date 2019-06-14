@@ -17,3 +17,5 @@ palindrome. If neither value is equal, then the matching palindromic characters
 are added to the output string from each end of the input string.
 
 At the end of execution, the maximum palindrome is printed out to the terminal.
+
+Usage: palindrome.py [input-filename]
